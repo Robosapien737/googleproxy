@@ -47,6 +47,10 @@ nav a:hover {
   background-color: #444;
 }
 
+nav .fa {
+  margin-right: 8px;
+}
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
